@@ -34,6 +34,7 @@ https://firebase.google.com/docs/admin/setup#windows
 ENV EXAMPLE
 [![back-env-example.png](https://i.postimg.cc/SsGMjb5W/back-env-example.png)](https://postimg.cc/Fd7Rn8hR)
 
-
+BACK FUNCIONANDO
+[![backfuncionando.png](https://i.postimg.cc/d1vFQLzV/backfuncionando.png)](https://postimg.cc/67HgY5Wk)
 
 
