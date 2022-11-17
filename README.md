@@ -37,4 +37,6 @@ ENV EXAMPLE
 BACK FUNCIONANDO
 [![backfuncionando.png](https://i.postimg.cc/d1vFQLzV/backfuncionando.png)](https://postimg.cc/67HgY5Wk)
 
-
+Pasos a seguir FIREBASE
+CONTROLLERS (CRUD)
+AUTH
