@@ -1,8 +1,9 @@
 # Nodejs/Express Firebase Admin SDK
 
-1 - install 
+1 - iniciando express y instalando 
 
-npm i init -y
+npm init
+
 npm i express
 npm i express-handlebars
 npm i morgan
